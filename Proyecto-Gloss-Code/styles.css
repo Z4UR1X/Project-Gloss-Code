@@ -1,0 +1,22 @@
+/* CSS Document */
+
+::root {
+  --color-1: #fff;
+  --color-2: #fhfh;
+  --color-3: #fa2j5e;
+}
+
+@keyframes myAnim {
+  
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  width: 100%;
+  height: 100vh;
+}
+
